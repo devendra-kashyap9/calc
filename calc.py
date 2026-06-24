@@ -7,4 +7,4 @@ a, b = [float(x) for x in input('Enter two numbers to perform addition seperated
 sum = add(a, b)
 
 print(f'The resultatnt sum of {a} & {b} is {sum}')
-print(f"Multiplication: {num1} * {num2} = {num1 * num2}")
+print(f"Multiplication: {a} * {b} is {a * b}")
