@@ -7,3 +7,4 @@ a, b = [float(x) for x in input('Enter two numbers to perform addition seperated
 sum = add(a, b)
 
 print(f'The resultatnt sum of {a} & {b} is {sum}')
+print(f"Subtraction: {a} - {b} = {a - b}")
